@@ -1,10 +1,10 @@
 # Handlebars 模板引擎
 ![](image/logo.jpg)
 > Handlebars是JavaScript一个语义模板库，通过对view和data的分离来快速构建Web模板它采用"Logic-less template"（无逻辑模版）的思路，在加载时被预编译，而不是到了客户端执行到代码时再去编译， 这样可以保证模板加载和运行的速度
-> 优点:
->   1.避免在js中写html代码
->   2.可读性好
->   3.易维护
+**优点:**
+1.避免在js中写html代码
+2.可读性好
+3.易维护
 
 ## 安装
 > 1.script引入 [下载](http://handlebarsjs.com/installation.html)
